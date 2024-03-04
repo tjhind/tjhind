@@ -1,5 +1,12 @@
 ## Hey! 👋 :shipit:
 
+Bringing a dynamic approach from my experience in Biomedical Science, I have a deep appreciation for the experimental methods that underpin development. I enjoy looking at problems critically and coming up with exciting solutions to them whilst collaborating on projects, to ensure efficient, functional and robust code.
+
+
+TicketDash: 
+
+Tiah's News: 
+
 <!--
 **tjhind/tjhind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Profile
