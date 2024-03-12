@@ -1,7 +1,7 @@
 
 ![Tiah Hind banner photo - picture of Tiah next to her name (Tiah Hind she/her)](https://github.com/tjhind/tjhind/assets/147715709/86fecf3f-c92b-4ae2-85f0-b179ca4cce1a)
 
-**Welcome!** I'm Tiah, a Junior Software Dev. I recently completed a 13-week Software Engineering Bootcamp with Northcoders. I bring a dynamic approach from my background in science, and I'm excited to apply and develop my skills in a real-world environment.
+**Welcome!** I'm Tiah, a Junior Software Dev. I recently completed a 13-week Software Engineering Bootcamp with Northcoders. I bring a dynamic approach from my background in science, and I'm excited to apply and develop my skills contributing to projects that help people in their everyday lives.
 
 ## My Projects 
 
