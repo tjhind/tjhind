@@ -1,17 +1,18 @@
-## Hey! 👋 :shipit:
 
-Bringing a dynamic approach from my experience in Biomedical Science, I have a deep appreciation for the experimental methods that underpin development. I enjoy looking at problems critically and coming up with exciting solutions to them whilst collaborating on projects, to ensure efficient, functional and robust code.
+![Tiah Hind banner photo](https://github.com/tjhind/tjhind/assets/147715709/86fecf3f-c92b-4ae2-85f0-b179ca4cce1a)
 
+**Welcome!** I'm Tiah, a Junior Software Dev. I recently completed a 13-week Software Engineering Bootcamp with Northcoders. 
 
+### My Projects 
 TicketDash: 
 
 Tiah's News: 
 
+Tiah's News Backend API: 
+
 <!--
 **tjhind/tjhind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Profile
-- **Currently working on** Completing a 13-week software development bootcamp at Northcoders!
-- **Currently learning** Javascript, HTML, CSS.
+
 
 Here are some ideas to get you started:
 
