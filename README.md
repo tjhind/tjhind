@@ -7,7 +7,7 @@
 
 ![Screenshots of TicketDash app in use: user list view of film screenings near to them, user view of tickets in auction with seating plan, user view of auction page with timer countdown, business view of listing page with option to select unsold seats, their price, and screening time](https://github.com/tjhind/tjhind/assets/147715709/b19998aa-8fbe-4b35-88a6-d5842686523c)
 
-Based on the idea that cinema tickets are often too expensive to make cinema an accessible experience for all, and that many tickets go unsold (just check your local cinema's website!), TicketDash is a mobile app providing live auctioning for cinema tickets on both iOS and Android. It's a platform where businesses can list events and seats for auction at a lower price and users can bid on tickets for those seats in real time.
+Based on the idea that cinema tickets are often too expensive to make cinema an accessible experience for all, and that many tickets go unsold (just check your local cinema's website!), TicketDash is a mobile app providing live auctioning for cinema tickets on both iOS and Android. It's a platform where businesses can list events and seats for auction at a lower price and users can bid on tickets for those seats in real time. Myself and 4 other developers built this app from scratch in just 8 days. 
 
 * Developed in React Native and with Expo
 * Utilises web sockets for live auctioning functionality
