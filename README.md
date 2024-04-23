@@ -1,15 +1,15 @@
 
 ![Tiah Hind banner photo - picture of Tiah next to her name (Tiah Hind she/her)](https://github.com/tjhind/tjhind/assets/147715709/86fecf3f-c92b-4ae2-85f0-b179ca4cce1a)
 
-**Hey!**  I'm Tiah, a junior full-stack developer. I recently completed a 13-week Software Engineering Bootcamp with Northcoders. I'm now excited to broaden my skills whilst contributing to projects that help people in their everyday lives. I'm particularly interested in user experience, and how creative application development can drive engagement with a product or service.
+**Hey!**  I'm Tiah, a junior full-stack developer. I'm excited to broaden my skills whilst contributing to projects that help people and businesses grow. I'm particularly interested in user experience, and how creative application development can drive engagement with a product or service.
 
 ## Tech Stack 
 **Languages:** JavaScript (node.js, browser & mobile environment), TypeScript, R <br /> 
-**Backend:** SQL, postgreSQL <br /> 
+**Backend:** postgreSQL, MongoDB <br /> 
 **Test-Driven Development (TDD):** Jest, Supertest <br /> 
 **Front-end:** React (Native & JS), TailwindCSS,  HTML, CSS, Lighthouse & other accessibility tools <br /> 
 
-✨ **Currently learning:** Svelte, MongoDB
+✨ **Currently learning:** Svelte
 
 
 ## My Projects 
