@@ -9,7 +9,6 @@
 **Test-Driven Development (TDD):** Jest, Supertest <br /> 
 **Front-end:** React (Native & JS), TailwindCSS,  HTML, CSS, Lighthouse & other accessibility tools <br /> 
 
-✨ **Currently learning:** Svelte
 
 
 ## My Projects 
