@@ -1,7 +1,7 @@
 
 ![Tiah Hind banner photo - picture of Tiah next to her name (Tiah Hind she/her)](https://github.com/tjhind/tjhind/assets/147715709/86fecf3f-c92b-4ae2-85f0-b179ca4cce1a)
 
-**Hey!**  I'm Tiah, a junior full-stack developer. Bringing a dynamic approach from my experience in research science, I have a deep appreciation for the experimental methods that underpin programme development. I'm particularly interested in user experience, and how creative application development can drive engagement with a product or service.
+**Hey!**  I'm Tiah, a junior full-stack developer. Bringing a dynamic approach from my experience in research science, I have a deep appreciation for the experimental methods that underpin programme development. I'm particularly interested in user experience, and how creative application development can drive engagement with a product or service, and I'm excited to apply and develop my skills whilst helping businesses grow.
 
 ## Tech Stack 
 **Languages:** JavaScript (node.js, browser & mobile environment), TypeScript, R <br /> 
